@@ -15,7 +15,7 @@
 #define PRECISAO 0.00001
 
 
-
+ILOSTLBEGIN
 int main(int argc, char *argv[]) {
   bool DEPU = false;
 
